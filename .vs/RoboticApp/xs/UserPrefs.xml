@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{C24EFC15-9F43-4B7A-84B4-6EFA814B2A35}|Default">
+  <MonoDevelop.Ide.ItemProperties.RoboticApp PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../../../Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/bin/MSBuild/Current/bin/Microsoft.Common.CurrentVersion.targets">
+    <Files>
+      <File FileName="Properties/launchSettings.json" Line="21" Column="32" />
+      <File FileName="Models/Enum/FileAStructure.cs" Line="1" Column="1" />
+      <File FileName="Models/Enum/FileBStructure.cs" Line="1" Column="1" />
+      <File FileName="Models/Enum/IFileStructure.cs" Line="1" Column="1" />
+      <File FileName="Models/Enum/OutputStructure.cs" Line="1" Column="1" />
+      <File FileName="Models/FileModelView.cs" Line="1" Column="1" />
+      <File FileName="Services/ReconciliationService.cs" Line="24" Column="61" />
+      <File FileName="Startup.cs" Line="1" Column="1" />
+      <File FileName="Program.cs" Line="1" Column="1" />
+      <File FileName="Controllers/DownloadAttachmentController.cs" Line="16" Column="6" />
+      <File FileName="Models/OutputFileModelView.cs" Line="1" Column="1" />
+      <File FileName="RoboticApp.csproj" Line="1" Column="1" />
+      <File FileName="../../../../Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/bin/MSBuild/Current/bin/Microsoft.Common.CurrentVersion.targets" Line="2218" Column="5" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RoboticApp" expanded="True">
+            <Node name="RoboticApp" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Services" expanded="True" />
+              <Node name="Startup.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
